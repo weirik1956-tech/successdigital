@@ -31,8 +31,8 @@ if (menuToggle && mainNav) {
 
 const projects = [
   { title: "The Celebration Edit", category: "Brand & Design · Concept", description: "A coordinated invitation and RSVP concept for a modern event.", image: "your-image1.png", alt: "The Celebration Edit event invitation and RSVP design" },
-  { title: "Studio North", category: "Web Design · Concept", description: "A clean portfolio concept for a creative independent business.", image: "your-image2.png", alt: "Studio North fashion and creative website design" },
-  { title: "The Good Notes", category: "Digital Products · Concept", description: "A digital planning collection with daily pages, weekly layouts, notes and goal-setting templates.", image: "your-image3.jpg", alt: "The Good Notes digital planner and stationery concept" }
+  { title: "Studio North", category: "Web Design · Concept", description: "A clean portfolio concept for a creative independent business.", image: "your-image2.jpg", alt: "Studio North fashion and creative website design" },
+  { title: "The Good Notes", category: "Digital Products · Concept", description: "A digital planning collection with daily pages, weekly layouts, notes and goal-setting templates.", image: "your-image3.png", alt: "The Good Notes digital planner and stationery concept" }
 ];
 
 const modal = document.getElementById("projectModal");
